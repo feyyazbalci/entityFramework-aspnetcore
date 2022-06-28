@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OpenClosed", "02.OpenClosed\02.OpenClosed.csproj", "{8454DA89-73FF-480F-A603-444245E51E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.EfCourse", "Udemy.EfCourse\Udemy.EfCourse.csproj", "{B60D9FFC-8629-4C62-85BA-DA5FD0AAA386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8454DA89-73FF-480F-A603-444245E51E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8454DA89-73FF-480F-A603-444245E51E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8454DA89-73FF-480F-A603-444245E51E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8454DA89-73FF-480F-A603-444245E51E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60D9FFC-8629-4C62-85BA-DA5FD0AAA386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60D9FFC-8629-4C62-85BA-DA5FD0AAA386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60D9FFC-8629-4C62-85BA-DA5FD0AAA386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60D9FFC-8629-4C62-85BA-DA5FD0AAA386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05757A7D-4F36-466D-A673-9B248EEF02E9}
+	EndGlobalSection
+EndGlobal

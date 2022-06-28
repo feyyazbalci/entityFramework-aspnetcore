@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRzm7Qugw7xZXmf5KBZGle2fqlm2liC8G0kWbwA99h0U0JiQftrLlLneZbTXCxcEKG2SJouUX4gsua2hs6viOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\02.OpenClosed\\02.OpenClosed\\02.OpenClosed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

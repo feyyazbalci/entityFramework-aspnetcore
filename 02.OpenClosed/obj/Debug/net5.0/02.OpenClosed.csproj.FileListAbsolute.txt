@@ -1,0 +1,16 @@
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\bin\Debug\net5.0\02.OpenClosed.exe
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\bin\Debug\net5.0\02.OpenClosed.deps.json
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\bin\Debug\net5.0\02.OpenClosed.runtimeconfig.json
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\bin\Debug\net5.0\02.OpenClosed.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\bin\Debug\net5.0\02.OpenClosed.dll
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\bin\Debug\net5.0\02.OpenClosed.pdb
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.dll
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\refint\02.OpenClosed.dll
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.pdb
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\02.OpenClosed.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\02.OpenClosed\02.OpenClosed\obj\Debug\net5.0\ref\02.OpenClosed.dll
